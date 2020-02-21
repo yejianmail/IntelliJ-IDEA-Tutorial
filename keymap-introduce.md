@@ -89,7 +89,7 @@ IntelliJ IDEA 的便捷操作性，快捷键的功劳占了一大半，对于各
 |:---------|:---------|
 |<kbd>Alt</kbd> + <kbd>\`</kbd>|显示版本控制常用操作菜单弹出层 `（必备）` |
 |<kbd>Alt</kbd> + <kbd>Q</kbd>|弹出一个提示，显示当前类的声明 / 上下文信息|
-|<kbd>Alt</kbd> + <kbd>J</kbd>|选中功能，选中一个词后，按此健组合可以继续选择下一相同内容,然后可以同时修改多处|
+|<kbd>Alt</kbd> + <kbd>J</kbd>|选中功能，选中一个词后，按此健组合可以继续选择下一相同内容,然后可以同时修改多处 `（必备）`|
 |<kbd>Alt</kbd> + <kbd>F1</kbd>|显示当前文件选择目标弹出层，弹出层中有很多目标可以进行选择 `（必备）` |
 |<kbd>Alt</kbd> + <kbd>F2</kbd>|对于前面页面，显示各类浏览器打开目标选择弹出层|
 |<kbd>Alt</kbd> + <kbd>F3</kbd>|选中文本，逐个往下查找相同文本，并高亮显示|
@@ -216,7 +216,7 @@ IntelliJ IDEA 的便捷操作性，快捷键的功劳占了一大半，对于各
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>N</kbd>|前往指定的变量 / 方法|
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>S</kbd>|打开当前项目设置 `（必备）` |
 |<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>C</kbd>|复制参考信息|
-|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>J</kbd>|选中功能，选中所有相同的内容|
+|<kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>J</kbd>|选中功能，选中所有相同的内容 `（必备）`|
 
 ## 其他
 
